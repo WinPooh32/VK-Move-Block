@@ -1,0 +1,14 @@
+{
+    "content_scripts": ["content.js"], 
+    "description": "Изменяет поведение правой панели", 
+    "creator": "WinPooh32", 
+    "background_scripts": [], 
+    "browser_button": {
+        "caption": "VK Правая панель", 
+        "icon": "icons/button.png", 
+        "tooltipText": "VK Правая панель"
+    }, 
+    "homepage_url": "http://github.com/WinPooh32/", 
+    "version": "1.0.0", 
+    "name": "VK Правая панель"
+}
